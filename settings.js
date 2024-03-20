@@ -16,15 +16,15 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "94772351972",
+  SUDO_NUMBERS : "94772351972,94714711928",
+  OWNER_NAME: "『 Kaushalya Sandaruwan 』",
+  BOT_NAME : "ALEX",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://i.ibb.co/Tr7w03d/FB-IMG-1663413568775.jpg',
+    WELCOME: 'https://i.ibb.co/Tr7w03d/FB-IMG-1663413568775.jpg',
+    GOODBYE: 'https://i.ibb.co/Tr7w03d/FB-IMG-1663413568775.jpg'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : false,
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Alex',
+  STICKER_PACK : '[ Alex ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
